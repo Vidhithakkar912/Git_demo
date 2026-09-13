@@ -1,0 +1,7 @@
+.env
+ignore.py
+build/
+install/
+log/
+.vscode
+
