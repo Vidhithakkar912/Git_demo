@@ -1,1 +1,1 @@
-"this is a second python script file"
+print("python 2nd script")
